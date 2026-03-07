@@ -14,3 +14,6 @@ You can get it with this link:
 [XP.css](https://botoxparty.github.io/XP.css/)
 At the corner of the website, you can find "Themes: Windows XP"
 There are two themes called: Windows XP and Windows 98
+
+ # Do you have some ideas for other projects?
+ I don't know. Maybe i find some source code to use.
