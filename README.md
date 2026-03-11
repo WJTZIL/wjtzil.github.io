@@ -11,6 +11,5 @@ Yeah, i will download some files im my PC and upload some files from my PC.
 I will list some new updates here:
 
 ```
-There aren't any new updates.
-Go back later to see new updates released by WJTZIL.
+Github Copliot will be used to modernize the website files. (11th March 2026)
 ```
