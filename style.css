@@ -33,6 +33,7 @@ nav {
   border-radius: var(--radius-sm);
   padding: 1rem;
   transition: background-color var(--transition-duration) ease;
+  text-align: center;
 }
 
 nav:hover {
