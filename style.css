@@ -55,3 +55,12 @@ nav a:focus {
   outline: 2px solid white;
   outline-offset: 2px;
 }
+
+.whitetext {
+color: white;
+font-size: 30px;
+}
+
+footer {
+text-align: center;
+}
