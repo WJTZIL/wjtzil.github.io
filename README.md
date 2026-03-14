@@ -5,6 +5,3 @@ For new information, go check it out. 👇
 # Do you have some ideas for other projects?
 I don't know. Maybe i find some source code to use.
 Or make some project for myself.
-
-# Extra NOTE!
-Github Copliot will be used to modernize the website files. (11th March 2026)
