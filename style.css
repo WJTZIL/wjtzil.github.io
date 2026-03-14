@@ -20,7 +20,7 @@ html {
 }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  font-family: Segoe UI;
   color: var(--color-text);
   background-color: var(--color-bg);
   line-height: 1.6;
