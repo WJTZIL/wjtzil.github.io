@@ -7,4 +7,4 @@ I don't know. Maybe i find some source code to use.
 Or make some project for myself.
 
 # Migration to Neocities:
-This will happen if Roblox will split itself into 3 versions (Roblox Kids, Roblox Select, regular Roblox)
+Yes. And i leave github pages...
