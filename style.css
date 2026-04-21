@@ -65,30 +65,3 @@ font-size: 30px;
 footer {
 text-align: center;
 }
-
-.section {
-  text-shadow:1px 1px 0 #444;
-  background: #d9d9d9;
-  border-radius: 5px;
-  width:300px;
-  margin:auto;
-  color: white;
-  overflow:auto;
-  display: inline-block;
-  transition: all 0.3s ease;
-  justify-content: center;
-  align-items: center;
-}
-
-.section:hover {
-  background-color: #fff;
-  font-size: 18px;
-  color: black;
-  transform: scale(1.1); 
-}
-
-.container {
-  display: flex;
-  height: 300px;
-    margin: 0 auto;
-}
